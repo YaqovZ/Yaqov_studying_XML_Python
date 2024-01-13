@@ -1,0 +1,98 @@
+[
+    {
+        "id_no": "101",
+        "title": "XML Developer's Guide",
+        "title_length": 3,
+        "name": "Matthew",
+        "surname": "Gambardella",
+        "name_abrev": "M.G."
+    },
+    {
+        "id_no": "102",
+        "title": "Midnight Rain",
+        "title_length": 2,
+        "name": "Kim",
+        "surname": "Ralls",
+        "name_abrev": "K.R."
+    },
+    {
+        "id_no": "103",
+        "title": "Maeve Ascendant",
+        "title_length": 2,
+        "name": "Eva",
+        "surname": "Corets",
+        "name_abrev": "E.C."
+    },
+    {
+        "id_no": "104",
+        "title": "Oberon's Legacy",
+        "title_length": 2,
+        "name": "Eva",
+        "surname": "Corets",
+        "name_abrev": "E.C."
+    },
+    {
+        "id_no": "105",
+        "title": "The Sundered Grail",
+        "title_length": 3,
+        "name": "Eva",
+        "surname": "Corets",
+        "name_abrev": "E.C."
+    },
+    {
+        "id_no": "106",
+        "title": "Lover Birds",
+        "title_length": 2,
+        "name": "Cynthia",
+        "surname": "Randall",
+        "name_abrev": "C.R."
+    },
+    {
+        "id_no": "107",
+        "title": "Splish Splash",
+        "title_length": 2,
+        "name": "Paula",
+        "surname": "Thurman",
+        "name_abrev": "P.T."
+    },
+    {
+        "id_no": "108",
+        "title": "Creepy Crawlies",
+        "title_length": 2,
+        "name": "Stefan",
+        "surname": "Knorr",
+        "name_abrev": "S.K."
+    },
+    {
+        "id_no": "109",
+        "title": "Paradox Lost",
+        "title_length": 2,
+        "name": "Peter",
+        "surname": "Kress",
+        "name_abrev": "P.K."
+    },
+    {
+        "id_no": "110",
+        "title": "Microsoft .NET: The Programming Bible",
+        "title_length": 5,
+        "name": "Tim",
+        "surname": "O'Brien",
+        "name_abrev": "T.O'B."
+    },
+    {
+        "id_no": "111",
+        "title": "MSXML3: A Comprehensive Guide",
+        "title_length": 4,
+        "name": "Tim",
+        "surname": "O'Brien",
+        "name_abrev": "T.O'B."
+    },
+    {
+        "id_no": "112",
+        "title": "Visual Studio 7: A Comprehensive Guide",
+        "title_length": 6,
+        "name": "Mike",
+        "surname": "Galos",
+        "name_abrev": "M.G."
+    }
+]
